@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'pocker_forTest' target in the 'pocker_forTest' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

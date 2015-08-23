@@ -1,0 +1,358 @@
+Tpocker_forTest
+v7
+r0
+t362584168.510591
+cCheck dependencies
+cProcessInfoPlistFile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/Info.plist pocker_forTest-Info.plist
+cCompileXIB /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib
+cCompileXIB /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib
+cCpResource build/Debug-iphonesimulator/pocker_forTest.app/poker2.jpg poker2.jpg
+cProcessPCH /var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch.gch pocker_forTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/main.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestAppDelegate.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.h
+c000000004FEC609200000000000000D4
+t1340891282
+s212
+i<UIKit/UIKit.h>
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.m
+c000000004FEC60920000000000000254
+t1340891282
+s596
+i"PkUIButton.h"
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pkUIButton.h
+c000000004FEC5ED4000000000000016F
+t1340890836
+s367
+i<UIKit/UIKit.h>
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pkUIButton.m
+c000000004FEC5ED10000000000000254
+t1340890833
+s596
+i"PkUIButton.h"
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.h
+c000000004B860C64000000000000016B
+t1267076196
+s363
+i<UIKit/UIKit.h>
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.m
+c000000004B860C6400000000000001EF
+t1267076196
+s495
+i"pocker_forTestAppDelegate.h"
+i"pocker_forTestViewController.h"
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.h
+c000000004FE87290000000000000014D
+t1340633744
+s333
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m
+c000000004FEC5F540000000000002B7C
+t1340890964
+s11132
+i"pocker_forTestViewController.h"
+i"pkUIButton.m"
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib
+c000000004B84953A000000000000249B
+t1266980154
+s9371
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app.dSYM
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/Info.plist
+t1340891365
+s619
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/MainWindow.nib
+t1340891366
+s1664
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/PkgInfo
+t1340891365
+s8
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTestViewController.nib
+t1340891366
+s3451
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/poker2.jpg
+t1340891366
+s2850
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o
+t1340891368
+s37496
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/main.o
+t1340891368
+s6356
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pkUIButton.o
+t1340890409
+s38056
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTest.LinkFileList
+c000000004FEC60E500000000000002AF
+t1340891365
+s687
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestAppDelegate.o
+t1340891368
+s49828
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.o
+t1340891368
+s73932
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/main.m
+c000000004B84953A000000000000015C
+t1266980154
+s348
+i<UIKit/UIKit.h>
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib
+c000000004FE873050000000000005F6C
+t1340633861
+s24428
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTest_Prefix.pch
+c000000004B84953A00000000000000C5
+t1266980154
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/poker2.jpg
+c000000004B8483C20000000000000B22
+t1266975682
+s2850
+
+N/var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch.gch
+t1340891367
+s15814064
+
+Npocker_forTest-Info.plist
+c000000004B84953A000000000000038D
+t1266980154
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362584165#362584165#0(0"0(0#1#0"8609438464#0"0#
+
+CCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s362584168.412078
+e362584168.484328
+r1
+xCompileC
+xbuild/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.m362584168#362584168#0(0"0(0#0#82"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.m8608730624#2327"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-generated-files.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-own-target-headers.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-all-target-headers.hmap -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-project-headers.hmap -F/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/include -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources/i386 -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources -include /var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch -c /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/PkUIButton.m -o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o0#
+
+CCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/main.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s362584168.035700
+e362584168.132981
+r1
+xCompileC
+xbuild/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/main.o
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/main.m362584168#362584168#0(0"0(0#0#68"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/main.m8607868864#2307"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-generated-files.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-own-target-headers.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-all-target-headers.hmap -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-project-headers.hmap -F/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/include -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources/i386 -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources -include /var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch -c /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/main.m -o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/main.o0#
+
+CCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pkUIButton.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pkUIButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestAppDelegate.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s362584168.133070
+e362584168.233378
+r1
+xCompileC
+xbuild/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestAppDelegate.o
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.m362584168#362584168#0(0"0(0#0#97"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.m8609744992#2357"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-generated-files.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-own-target-headers.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-all-target-headers.hmap -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-project-headers.hmap -F/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/include -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources/i386 -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources -include /var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch -c /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestAppDelegate.m -o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestAppDelegate.o0#
+
+CCompileC build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s362584168.233467
+e362584168.411990
+r1
+xCompileC
+xbuild/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.o
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController removeObjectInarray]':
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: 'UIView' may not respond to '-currentTitle'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: (Messages without a matching method signature
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: will be assumed to return 'id' and accept
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: '...' as arguments.)
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController passCard]':
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:77: warning: 'UIView' may not respond to '-currentTitle'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:88: warning: 'UIView' may not respond to '-currentTitle'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:89: warning: 'UIView' may not respond to '-currentBackgroundImage'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:89: warning: unused variable 'image'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController jiequNineCards]':
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:113: warning: 'pocker_forTestViewController' may not respond to '-autoPutCard:'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:121: warning: 'pocker_forTestViewController' may not respond to '-autoPutCard:'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController aniForsendcards:]':
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:200: warning: 'UIView' may not respond to '-currentTitle'
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController sendCards]':
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:254: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:274: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:293: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:312: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast
+o/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:318: warning: 'pocker_forTestViewController' may not respond to '-sortRandom'
+lSLF07#2@108"Compile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362584168#362584168#0(3503"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController removeObjectInarray]':/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: 'UIView' may not respond to '-currentTitle'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: (Messages without a matching method signature/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: will be assumed to return 'id' and accept/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:29: warning: '...' as arguments.)/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController passCard]':/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:77: warning: 'UIView' may not respond to '-currentTitle'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:88: warning: 'UIView' may not respond to '-currentTitle'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:89: warning: 'UIView' may not respond to '-currentBackgroundImage'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:89: warning: unused variable 'image'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController jiequNineCards]':/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:113: warning: 'pocker_forTestViewController' may not respond to '-autoPutCard:'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:121: warning: 'pocker_forTestViewController' may not respond to '-autoPutCard:'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController aniForsendcards:]':/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:200: warning: 'UIView' may not respond to '-currentTitle'/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m: In function '-[pocker_forTestViewController sendCards]':/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:254: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:274: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:293: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:312: warning: passing argument 1 of 'setTag:' makes integer from pointer without a cast/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m:318: warning: 'pocker_forTestViewController' may not respond to '-sortRandom'14(22@43"'UIView' may not respond to '-currentTitle'362584168#169#158#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#29#0#29#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)362584168#327#160#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#29#0#29#0#0"0(22@43"'UIView' may not respond to '-currentTitle'362584168#936#158#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#77#0#77#0#26"'*' may not respond to '*'0(22@43"'UIView' may not respond to '-currentTitle'362584168#1094#158#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#88#0#88#0#26"'*' may not respond to '*'0(22@53"'UIView' may not respond to '-currentBackgroundImage'362584168#1252#168#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#89#0#89#0#26"'*' may not respond to '*'0(22@23"Unused variable 'image'362584168#1420#138#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#89#0#89#0#19"unused variable '*'0(22@65"'pocker_forTestViewController' may not respond to '-autoPutCard:'362584168#1722#181#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#113#0#113#0#26"'*' may not respond to '*'0(22@65"'pocker_forTestViewController' may not respond to '-autoPutCard:'362584168#1903#181#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#121#0#121#0#26"'*' may not respond to '*'0(22@43"'UIView' may not respond to '-currentTitle'362584168#2250#159#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#200#0#200#0#26"'*' may not respond to '*'0(22@73"Passing argument 1 of 'setTag:' makes integer from pointer without a cast362584168#2568#189#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#254#0#254#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@73"Passing argument 1 of 'setTag:' makes integer from pointer without a cast362584168#2757#189#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#274#0#274#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@73"Passing argument 1 of 'setTag:' makes integer from pointer without a cast362584168#2946#189#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#293#0#293#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@73"Passing argument 1 of 'setTag:' makes integer from pointer without a cast362584168#3135#189#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#312#0#312#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@63"'pocker_forTestViewController' may not respond to '-sortRandom'362584168#3324#179#0(6@100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m362583764#318#0#318#0#26"'*' may not respond to '*'0(0#0#100"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m8607944448#2363"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-generated-files.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-own-target-headers.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-all-target-headers.hmap -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-project-headers.hmap -F/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/include -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources/i386 -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources -include /var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch -c /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/Classes/pocker_forTestViewController.m -o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.o0#
+
+CCompileXIB /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib
+s362584165.753413
+e362584166.346180
+r1
+xCompileXIB
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib362584165#362584166#0(0"0(0#0#76"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib8604565024#646"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/MainWindow.nib /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib
+s362584166.346270
+e362584166.856319
+r1
+xCompileXIB
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@43"CompileXIB pocker_forTestViewController.xib362584166#362584166#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#94"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib8608120576#682"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTestViewController.nib /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/pocker_forTest.app/poker2.jpg poker2.jpg
+s362584166.856398
+e362584166.902735
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/pocker_forTest.app/poker2.jpg
+xpoker2.jpg
+lSLF07#2@15"Copy poker2.jpg362584166#362584166#0(0"0(0#0#72"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/poker2.jpg8607866560#544"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/poker2.jpg /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app0#
+
+CGenerateDSYMFile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app.dSYM /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest
+s362583209.716375
+e362583209.887165
+r1
+xGenerateDSYMFile
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app.dSYM
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/pocker_forTest.app.dSYM build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest362583209#362583209#0(0"0(0#0#123"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest8606268224#473"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest -o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app.dSYM0#
+
+CLd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest normal i386
+s362584168.484414
+e362584168.510525
+r0
+xLd
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest
+xnormal
+xi386
+old: duplicate symbol _OBJC_METACLASS_$_PkUIButton in /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o and /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.o
+ocollect2: ld returned 1 exit status
+lSLF07#2@128"Link /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest362584168#362584168#0(545"ld: duplicate symbol _OBJC_METACLASS_$_PkUIButton in /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o and /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.ocollect2: ld returned 1 exit statusCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 12(13@400"Duplicate symbol _OBJC_METACLASS_$_PkUIButton in /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/PkUIButton.o and /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTestViewController.o362584168#0#405#0(6@0"362584168#0#0#0#0#0"0(4@103"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1362584168#18446744073709551615#0#0(1@0"0(0#0#0"8607701440#1072"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator -F/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator -filelist /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/Objects-normal/i386/pocker_forTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/pocker_forTest1#
+
+CProcessInfoPlistFile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/Info.plist pocker_forTest-Info.plist
+s362584165.738668
+e362584165.753332
+r1
+xProcessInfoPlistFile
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/Info.plist
+xpocker_forTest-Info.plist
+lSLF07#2@33"Process pocker_forTest-Info.plist362584165#362584165#0(0"0(0#0#87"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTest-Info.plist8607328704#569"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility pocker_forTest-Info.plist -genpkginfo /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app/Info.plist0#
+
+CProcessPCH /var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch.gch pocker_forTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s362584166.902849
+e362584168.035210
+r1
+xProcessPCH
+x/var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch.gch
+xpocker_forTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile pocker_forTest_Prefix.pch362584166#362584168#0(0"0(0#0#87"/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTest_Prefix.pch8607676992#2169"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-generated-files.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-own-target-headers.hmap -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-all-target-headers.hmap -iquote /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/pocker_forTest-project-headers.hmap -F/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/include -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources/i386 -I/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/pocker_forTest.build/Debug-iphonesimulator/pocker_forTest.build/DerivedSources -c /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTest_Prefix.pch -o /var/folders/UY/UYhvKKFXG+8c53PlEiZBJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pocker_forTest_Prefix-geraualfgdfeuzaqqwpshlwzprqy/pocker_forTest_Prefix.pch.gch0#
+
+CTouch /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app
+s362583209.887240
+e362583209.913105
+r1
+xTouch
+x/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app
+lSLF07#2@114"Touch /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app362583209#362583209#0(0"0(0#0#0"8607425664#331"    cd /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug-iphonesimulator/pocker_forTest.app0#
+

@@ -1,0 +1,63 @@
+Tpocker_forTest
+v7
+r1
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib
+c000000004B84953A000000000000249B
+t1266980154
+s9371
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app/Contents/Info.plist
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app/Contents/Resources/pocker_forTestViewController.nib
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app/Contents/Resources/poker2.jpg
+t2
+s0
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib
+c000000004B84C9A200000000000020F0
+t1266993570
+s8432
+
+N/Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/poker2.jpg
+c000000004B8483C20000000000000B22
+t1266975682
+s2850
+
+Npocker_forTest-Info.plist
+c000000004B84953A000000000000038D
+t1266980154
+s909
+
+CCompileXIB /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/MainWindow.xib
+r0
+
+CCompileXIB /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/pocker_forTestViewController.xib
+r0
+
+CCpResource build/Debug/pocker_forTest.app/Contents/Resources/poker2.jpg poker2.jpg
+r0
+
+CProcessInfoPlistFile /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app/Contents/Info.plist pocker_forTest-Info.plist
+r0
+
+CTouch /Users/zuxisui/Documents/source/pocker_forTest/pocker_forTest/build/Debug/pocker_forTest.app
+r0
+
